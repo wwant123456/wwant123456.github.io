@@ -1,0 +1,54 @@
+.header{
+	font-size: 20px;
+	line-height: 1.5;
+	padding: 35px 0;
+}
+.header span{
+	display: block;
+}
+.section{
+	padding: 35px 0;
+}
+.form{
+	border: 5px solid #2727d9;
+	padding: 20px;
+	height: 300px;
+
+}
+.form-header{
+	font-size: 20px;
+	font-weight: 900;
+}
+.form-btn{
+	margin-top: 50px;
+
+}
+.form-input{
+	margin-bottom: 20px;
+}
+h2.header{
+	font-size: 20px;
+	font-weight: 900;
+}
+.btn-p{
+	margin: 20px;
+}
+.form1-btn{
+	display: block;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto; 
+}
+.video{
+	margin-bottom: 30px;
+}
+.col-lg-2{
+	/*border: 2px solid red;*/
+}
+.feature-p{
+	text-align: center;
+}
+.img1{
+	margin-right: auto;
+	margin-left: 40px; 
+}
